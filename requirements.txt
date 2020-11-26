@@ -2,15 +2,15 @@ asgiref==3.2.10
 certifi==2020.6.20
 cffi==1.14.3
 cryptography==3.1.1
-Django @ file:///tmp/build/80754af9/django_1601563330930/work
+Django==3.1.3
 django-rest-knox==4.1.0
-djangorestframework @ file:///home/conda/feedstock_root/build_artifacts/djangorestframework_1601312268278/work
+djangorestframework==3.12.1
 gunicorn==20.0.4
 Pillow==8.0.0
-psycopg2 @ file:///C:/ci/psycopg2_1594305172475/work
+psycopg2==2.8.5
 pycparser==2.20
 pytz==2020.1
 six==1.15.0
-sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+sqlparse==0.4.1
 whitenoise==5.2.0
 wincertstore==0.2
